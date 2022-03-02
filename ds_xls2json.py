@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 from byoi_utility.xls2json import build_import
-os.chdir('G:/My Drive/ds_working_python/source_file')
+os.chdir('C:/User/')
 
 test = build_import('data-collection.xls')
 
